@@ -1,0 +1,1 @@
+# smallest-number-of-the-array
